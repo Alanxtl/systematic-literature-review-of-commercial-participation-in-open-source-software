@@ -120,4 +120,43 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - Rules of Engagement: Why and How Companies Participate in OSS (https://ieeexplore.ieee.org/abstract/document/10172804)
 
+## Scopus
+
 - Leveraging Corporate Engagement for Diversity in Free/Libre and Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/10213427)
+
+- Perceptions and Uptake of Open Source in Swedish Organisations (https://opendl.ifip-tc6.org/db/conf/oss/oss2006/LundellLL06.pdf0)
+
+- Promoting the penguin: Who is advocating open source software in commercial settings? (https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26530011)
+
+- When does community participation enhance the performance of open source software companies? (https://www.sciencedirect.com/science/article/abs/pii/S0048733309001206)
+
+- A systematic review of research on open source software in commercial software product development (https://www.sciencedirect.com/science/article/abs/pii/S0950584910002259)
+
+- Firms’ involvement in Open Source projects: A trade-off between software structural quality and popularity (https://www.sciencedirect.com/science/article/abs/pii/S016412121000244X)
+
+- Open innovation and within-industry diversification in small and medium enterprises: The case of open source software firms (https://www.sciencedirect.com/science/article/abs/pii/S0048733313001601)
+
+- Firms' Resource Deployment and Project Leadership in Open Source Software Development (https://www.worldscientific.com/doi/abs/10.1142/S0219877015500108)
+
+- How do firms influence open source software communities? A framework and empirical analysis of different governance modes (https://www.sciencedirect.com/science/article/abs/pii/S1471772715000111)
+
+- How Firms Adapt and Interact in Open Source Ecosystems: Analyzing Stakeholder Influence and Collaboration Patterns (https://arxiv.org/pdf/2208.02628)
+
+- Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687)
+
+- Coopetition of Software Firms in Open Source Software Ecosystems (https://arxiv.org/pdf/1711.07049)
+
+- The role of open source in new business formation: Innovations for development (http://www.georglink.de/media/2019/02/2017paper-The-role-of-open-source-in-new-business-formation.pdf)
+
+- The Impact of Ideology Misfit on Open Source Software Communities and Companies (https://www.jstor.org/stable/26635072)
+
+- Role of reciprocity in firms' open source strategies (https://www.emerald.com/insight/content/doi/10.1108/BJM-12-2019-0408/full/html)
+
+- Competitive strategy of proprietary software firms in an open source environment (https://heinonline.org/HOL/LandingPage?handle=hein.journals/rvwoecrh17&div=4&id=&page=)
+
+- The Open Source Distributor Business Model (https://ieeexplore.ieee.org/abstract/document/9622280)
+
+- On Company Contributions to Community Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/8737777)
+
+- 'Open source has won and lost the war': Legitimising commercial–communal hybridisation in a FOSS project (https://journals.sagepub.com/doi/abs/10.1177/1461444820907022)
+
