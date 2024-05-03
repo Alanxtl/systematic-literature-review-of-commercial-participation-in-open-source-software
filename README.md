@@ -186,4 +186,10 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do (https://dl.acm.org/doi/abs/10.1145/3479551)
 
-- 
+## IEEE
+
+- Motivations of Individuals and Firms Participating in Open Source Community (https://ieeexplore.ieee.org/abstract/document/1526964)
+
+- Self-organization patterns in wasp and open source communities (https://ieeexplore.ieee.org/document/1613819)
+
+- Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics (https://ieeexplore.ieee.org/document/9527064)
