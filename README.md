@@ -160,3 +160,30 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - 'Open source has won and lost the war': Legitimising commercial–communal hybridisation in a FOSS project (https://journals.sagepub.com/doi/abs/10.1177/1461444820907022)
 
+## ACM
+
+- Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects (https://dl.acm.org/doi/abs/10.1287/isre.1060.0082)
+
+- The adoption of open source software in business models: a Red Hat and IBM case study (https://dl.acm.org/doi/abs/10.1145/1632149.1632165)
+
+- From "community" to "commercial" FLOSS: the case of Moodle (https://dl.acm.org/doi/abs/10.1145/1833272.1833275)
+
+- "Cool" or "monster"?: company takeovers and their effect on open source community participation (https://dl.acm.org/doi/abs/10.1145/1940761.1940806)
+
+- A case study of the collaborative approaches to sustain open source business models (https://dl.acm.org/doi/abs/10.1145/2491055.2491072)
+
+- Utilization and Development Contribution of Open Source Software in Japanese IT Companies: An Exploratory Study of the Effect on Business Growth (https://dl.acm.org/doi/abs/10.1145/2641580.2641588)
+
+- Between organization and community: investigating turnover intention factors of firm-sponsored open source software developers (https://dl.acm.org/doi/abs/10.1145/2908131.2908200)
+
+- Understanding Organization and Open Source Community Relations through the Attraction-Selection-Attrition Model (https://dl.acm.org/doi/abs/10.1145/3125433.3125472)
+
+- An Investigation of Work Practices Used by Companies Making Contributions to Established OSS Projects (https://dl.acm.org/doi/abs/10.1145/3183519.3183531)
+
+- Exploring the Effect of Software Ecosystem Health on the Financial Performance of the Open Source Companies (https://dl.acm.org/doi/abs/10.1145/3194124.3194126)
+
+- Business of Open Source: A Case Study of Integrating Existing Patterns Through Narratives (https://dl.acm.org/doi/abs/10.1145/3282308.3282332)
+
+- The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do (https://dl.acm.org/doi/abs/10.1145/3479551)
+
+- 
