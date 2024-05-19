@@ -44,7 +44,7 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 ## ACM
 
-- Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects (https://dl.acm.org/doi/abs/10.1287/isre.1060.0082)
+<!-- - Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects (https://dl.acm.org/doi/abs/10.1287/isre.1060.0082) -->
 
 - The adoption of open source software in business models: a Red Hat and IBM case study (https://dl.acm.org/doi/abs/10.1145/1632149.1632165)
 
