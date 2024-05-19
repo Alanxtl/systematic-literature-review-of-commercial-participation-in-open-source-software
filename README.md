@@ -24,7 +24,7 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - How Firms Adapt and Interact in Open Source Ecosystems: Analyzing Stakeholder Influence and Collaboration Patterns (https://arxiv.org/pdf/2208.02628)
 
-# - Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687)
+<!-- - Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687) -->
 
 - Coopetition of Software Firms in Open Source Software Ecosystems (https://arxiv.org/pdf/1711.07049)
 
