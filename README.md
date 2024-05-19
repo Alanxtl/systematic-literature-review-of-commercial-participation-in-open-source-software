@@ -2,6 +2,80 @@
 
 This repoistory serves the complete list of selected papers of ***Systematic Literature Review of Commercial Participation in Open Source Software***, a TOSEM manuscript.
 
+## Scopus
+
+- Leveraging Corporate Engagement for Diversity in Free/Libre and Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/10213427)
+
+- Perceptions and Uptake of Open Source in Swedish Organisations (https://opendl.ifip-tc6.org/db/conf/oss/oss2006/LundellLL06.pdf0)
+
+- Promoting the penguin: Who is advocating open source software in commercial settings? (https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26530011)
+
+- When does community participation enhance the performance of open source software companies? (https://www.sciencedirect.com/science/article/abs/pii/S0048733309001206)
+
+- A systematic review of research on open source software in commercial software product development (https://www.sciencedirect.com/science/article/abs/pii/S0950584910002259)
+
+- Firms’ involvement in Open Source projects: A trade-off between software structural quality and popularity (https://www.sciencedirect.com/science/article/abs/pii/S016412121000244X)
+
+- Open innovation and within-industry diversification in small and medium enterprises: The case of open source software firms (https://www.sciencedirect.com/science/article/abs/pii/S0048733313001601)
+
+- Firms' Resource Deployment and Project Leadership in Open Source Software Development (https://www.worldscientific.com/doi/abs/10.1142/S0219877015500108)
+
+- How do firms influence open source software communities? A framework and empirical analysis of different governance modes (https://www.sciencedirect.com/science/article/abs/pii/S1471772715000111)
+
+- How Firms Adapt and Interact in Open Source Ecosystems: Analyzing Stakeholder Influence and Collaboration Patterns (https://arxiv.org/pdf/2208.02628)
+
+- Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687)
+
+- Coopetition of Software Firms in Open Source Software Ecosystems (https://arxiv.org/pdf/1711.07049)
+
+- The role of open source in new business formation: Innovations for development (http://www.georglink.de/media/2019/02/2017paper-The-role-of-open-source-in-new-business-formation.pdf)
+
+- The Impact of Ideology Misfit on Open Source Software Communities and Companies (https://www.jstor.org/stable/26635072)
+
+- Role of reciprocity in firms' open source strategies (https://www.emerald.com/insight/content/doi/10.1108/BJM-12-2019-0408/full/html)
+
+- Competitive strategy of proprietary software firms in an open source environment (https://heinonline.org/HOL/LandingPage?handle=hein.journals/rvwoecrh17&div=4&id=&page=)
+
+- The Open Source Distributor Business Model (https://ieeexplore.ieee.org/abstract/document/9622280)
+
+- On Company Contributions to Community Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/8737777)
+
+- 'Open source has won and lost the war': Legitimising commercial–communal hybridisation in a FOSS project (https://journals.sagepub.com/doi/abs/10.1177/1461444820907022)
+
+## ACM
+
+- Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects (https://dl.acm.org/doi/abs/10.1287/isre.1060.0082)
+
+- The adoption of open source software in business models: a Red Hat and IBM case study (https://dl.acm.org/doi/abs/10.1145/1632149.1632165)
+
+- From "community" to "commercial" FLOSS: the case of Moodle (https://dl.acm.org/doi/abs/10.1145/1833272.1833275)
+
+- "Cool" or "monster"?: company takeovers and their effect on open source community participation (https://dl.acm.org/doi/abs/10.1145/1940761.1940806)
+
+- A case study of the collaborative approaches to sustain open source business models (https://dl.acm.org/doi/abs/10.1145/2491055.2491072)
+
+- Utilization and Development Contribution of Open Source Software in Japanese IT Companies: An Exploratory Study of the Effect on Business Growth (https://dl.acm.org/doi/abs/10.1145/2641580.2641588)
+
+- Between organization and community: investigating turnover intention factors of firm-sponsored open source software developers (https://dl.acm.org/doi/abs/10.1145/2908131.2908200)
+
+- Understanding Organization and Open Source Community Relations through the Attraction-Selection-Attrition Model (https://dl.acm.org/doi/abs/10.1145/3125433.3125472)
+
+- An Investigation of Work Practices Used by Companies Making Contributions to Established OSS Projects (https://dl.acm.org/doi/abs/10.1145/3183519.3183531)
+
+- Exploring the Effect of Software Ecosystem Health on the Financial Performance of the Open Source Companies (https://dl.acm.org/doi/abs/10.1145/3194124.3194126)
+
+- Business of Open Source: A Case Study of Integrating Existing Patterns Through Narratives (https://dl.acm.org/doi/abs/10.1145/3282308.3282332)
+
+- The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do (https://dl.acm.org/doi/abs/10.1145/3479551)
+
+## IEEE
+
+- Motivations of Individuals and Firms Participating in Open Source Community (https://ieeexplore.ieee.org/abstract/document/1526964)
+
+- Self-organization patterns in wasp and open source communities (https://ieeexplore.ieee.org/document/1613819)
+
+- Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics (https://ieeexplore.ieee.org/document/9527064)
+
 ## Backtracking
 
 - Trust and commerce in open source--a contradiction? (https://www.researchgate.net/profile/Margit-Osterloh/publication/226907215_Trust_and_Commerce_in_Open_Source_-_A_Contradiction/links/0c960519efb756d080000000/Trust-and-Commerce-in-Open-Source-A-Contradiction.pdf)
@@ -119,77 +193,3 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 - Turnover of companies in OpenStack: Prevalence and rationale (https://dl.acm.org/doi/full/10.1145/3510849)
 
 - Rules of Engagement: Why and How Companies Participate in OSS (https://ieeexplore.ieee.org/abstract/document/10172804)
-
-## Scopus
-
-- Leveraging Corporate Engagement for Diversity in Free/Libre and Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/10213427)
-
-- Perceptions and Uptake of Open Source in Swedish Organisations (https://opendl.ifip-tc6.org/db/conf/oss/oss2006/LundellLL06.pdf0)
-
-- Promoting the penguin: Who is advocating open source software in commercial settings? (https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26530011)
-
-- When does community participation enhance the performance of open source software companies? (https://www.sciencedirect.com/science/article/abs/pii/S0048733309001206)
-
-- A systematic review of research on open source software in commercial software product development (https://www.sciencedirect.com/science/article/abs/pii/S0950584910002259)
-
-- Firms’ involvement in Open Source projects: A trade-off between software structural quality and popularity (https://www.sciencedirect.com/science/article/abs/pii/S016412121000244X)
-
-- Open innovation and within-industry diversification in small and medium enterprises: The case of open source software firms (https://www.sciencedirect.com/science/article/abs/pii/S0048733313001601)
-
-- Firms' Resource Deployment and Project Leadership in Open Source Software Development (https://www.worldscientific.com/doi/abs/10.1142/S0219877015500108)
-
-- How do firms influence open source software communities? A framework and empirical analysis of different governance modes (https://www.sciencedirect.com/science/article/abs/pii/S1471772715000111)
-
-- How Firms Adapt and Interact in Open Source Ecosystems: Analyzing Stakeholder Influence and Collaboration Patterns (https://arxiv.org/pdf/2208.02628)
-
-- Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687)
-
-- Coopetition of Software Firms in Open Source Software Ecosystems (https://arxiv.org/pdf/1711.07049)
-
-- The role of open source in new business formation: Innovations for development (http://www.georglink.de/media/2019/02/2017paper-The-role-of-open-source-in-new-business-formation.pdf)
-
-- The Impact of Ideology Misfit on Open Source Software Communities and Companies (https://www.jstor.org/stable/26635072)
-
-- Role of reciprocity in firms' open source strategies (https://www.emerald.com/insight/content/doi/10.1108/BJM-12-2019-0408/full/html)
-
-- Competitive strategy of proprietary software firms in an open source environment (https://heinonline.org/HOL/LandingPage?handle=hein.journals/rvwoecrh17&div=4&id=&page=)
-
-- The Open Source Distributor Business Model (https://ieeexplore.ieee.org/abstract/document/9622280)
-
-- On Company Contributions to Community Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/8737777)
-
-- 'Open source has won and lost the war': Legitimising commercial–communal hybridisation in a FOSS project (https://journals.sagepub.com/doi/abs/10.1177/1461444820907022)
-
-## ACM
-
-- Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects (https://dl.acm.org/doi/abs/10.1287/isre.1060.0082)
-
-- The adoption of open source software in business models: a Red Hat and IBM case study (https://dl.acm.org/doi/abs/10.1145/1632149.1632165)
-
-- From "community" to "commercial" FLOSS: the case of Moodle (https://dl.acm.org/doi/abs/10.1145/1833272.1833275)
-
-- "Cool" or "monster"?: company takeovers and their effect on open source community participation (https://dl.acm.org/doi/abs/10.1145/1940761.1940806)
-
-- A case study of the collaborative approaches to sustain open source business models (https://dl.acm.org/doi/abs/10.1145/2491055.2491072)
-
-- Utilization and Development Contribution of Open Source Software in Japanese IT Companies: An Exploratory Study of the Effect on Business Growth (https://dl.acm.org/doi/abs/10.1145/2641580.2641588)
-
-- Between organization and community: investigating turnover intention factors of firm-sponsored open source software developers (https://dl.acm.org/doi/abs/10.1145/2908131.2908200)
-
-- Understanding Organization and Open Source Community Relations through the Attraction-Selection-Attrition Model (https://dl.acm.org/doi/abs/10.1145/3125433.3125472)
-
-- An Investigation of Work Practices Used by Companies Making Contributions to Established OSS Projects (https://dl.acm.org/doi/abs/10.1145/3183519.3183531)
-
-- Exploring the Effect of Software Ecosystem Health on the Financial Performance of the Open Source Companies (https://dl.acm.org/doi/abs/10.1145/3194124.3194126)
-
-- Business of Open Source: A Case Study of Integrating Existing Patterns Through Narratives (https://dl.acm.org/doi/abs/10.1145/3282308.3282332)
-
-- The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do (https://dl.acm.org/doi/abs/10.1145/3479551)
-
-## IEEE
-
-- Motivations of Individuals and Firms Participating in Open Source Community (https://ieeexplore.ieee.org/abstract/document/1526964)
-
-- Self-organization patterns in wasp and open source communities (https://ieeexplore.ieee.org/document/1613819)
-
-- Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics (https://ieeexplore.ieee.org/document/9527064)
