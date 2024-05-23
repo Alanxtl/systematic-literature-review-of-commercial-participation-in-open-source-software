@@ -162,7 +162,7 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - How do Open Source software companies respond to institutional pressures? A business model perspective (https://www.emerald.com/insight/content/doi/10.1108/JEIM-05-2015-0041/full/html)
 
-- Company soldiers and gone-natives: role conflict and career ambition among firm-employed open source developers (Company soldiers and gone-natives: role conflict and career ambition among firm-employed open source developers)
+- Company soldiers and gone-natives: role conflict and career ambition among firm-employed open source developers (https://cora.ucc.ie/server/api/core/bitstreams/ca9fc0e9-a170-4a8e-86bc-0d1de5854565/content#page=8.41)
 
 - Companies' Domination in FLOSS Development - An Empirical Study of OpenStack (https://dl.acm.org/doi/abs/10.1145/3183440.3195047)
 
