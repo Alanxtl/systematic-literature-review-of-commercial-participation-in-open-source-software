@@ -1,7 +1,9 @@
 # systematic-literature-review-of-commercial-participation-in-open-source-software
 
 This repoistory serves the complete list of selected papers of ***Systematic Literature Review of Commercial Participation in Open Source Software***, a TOSEM manuscript.
+
 The detailed results by step can be seen in the bibtex files in the content i.e. [Digital libries sampling](Digital_libries_sampling.bib), [Snowball](Snowball.bib), [Final result](Final_result.bib).
+
 The final result is presented below.
 
 ## Scopus
