@@ -1,10 +1,10 @@
 # systematic-literature-review-of-commercial-participation-in-open-source-software
 
 This repoistory serves the complete list of selected papers of ***Systematic Literature Review of Commercial Participation in Open Source Software***, a TOSEM manuscript.
+The detailed results by step can be seen in the bibtex files in the content i.e. [Digital libries sampling](Digital_libries_sampling.bib), [Snowball](Snowball.bib), [Final result](Final_result.bib).
+The final result is presented below.
 
 ## Scopus
-
-- Leveraging Corporate Engagement for Diversity in Free/Libre and Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/10213427)
 
 - Perceptions and Uptake of Open Source in Swedish Organisations (https://opendl.ifip-tc6.org/db/conf/oss/oss2006/LundellLL06.pdf0)
 
@@ -24,7 +24,7 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - How Firms Adapt and Interact in Open Source Ecosystems: Analyzing Stakeholder Influence and Collaboration Patterns (https://arxiv.org/pdf/2208.02628)
 
-<!-- - Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687) -->
+- Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects (https://pubsonline.informs.org/doi/abs/10.1287/isre.2016.0687)
 
 - Coopetition of Software Firms in Open Source Software Ecosystems (https://arxiv.org/pdf/1711.07049)
 
@@ -41,6 +41,10 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 - On Company Contributions to Community Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/8737777)
 
 - 'Open source has won and lost the war': Legitimising commercial–communal hybridisation in a FOSS project (https://journals.sagepub.com/doi/abs/10.1177/1461444820907022)
+
+- Do software firms collaborate or compete? A model of coopetition in community-initiated OSS projects (https://arxiv.org/abs/1808.06489)
+
+- Chromium as a tool of logistical power: A material political economy of open-source (https://journals.sagepub.com/doi/full/10.1177/20539517231182399)
 
 ## ACM
 
@@ -68,6 +72,14 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 
 - The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do (https://dl.acm.org/doi/abs/10.1145/3479551)
 
+- An empirical study of the landscape of open source projects in Baidu, Alibaba, and Tencent (https://ieeexplore.ieee.org/abstract/document/9402014)
+
+- Progressive open source (https://dl.acm.org/doi/abs/10.1145/581339.581363)
+
+- The use of open source software platforms by independent software vendors: issues and opportunities (https://dl.acm.org/doi/abs/10.1145/1082983.1083266)
+
+- Enterprise-driven open source software: A case study on security automation (https://ieeexplore.ieee.org/abstract/document/9402050/)
+
 ## IEEE
 
 - Motivations of Individuals and Firms Participating in Open Source Community (https://ieeexplore.ieee.org/abstract/document/1526964)
@@ -75,6 +87,8 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 - Self-organization patterns in wasp and open source communities (https://ieeexplore.ieee.org/document/1613819)
 
 - Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics (https://ieeexplore.ieee.org/document/9527064)
+
+- Affiliated Participation in Open Source Communities (https://ieeexplore.ieee.org/abstract/document/8870185)
 
 ## Backtracking
 
@@ -193,3 +207,13 @@ This repoistory serves the complete list of selected papers of ***Systematic Lit
 - Turnover of companies in OpenStack: Prevalence and rationale (https://dl.acm.org/doi/full/10.1145/3510849)
 
 - Rules of Engagement: Why and How Companies Participate in OSS (https://ieeexplore.ieee.org/abstract/document/10172804)
+
+- Leveraging Corporate Engagement for Diversity in Free/Libre and Open Source Software Projects (https://ieeexplore.ieee.org/abstract/document/10213427)
+
+- Conceptualizing open distributed innovation: A framework for the collaboration of private companies with grassroots‐driven open communities (https://onlinelibrary.wiley.com/doi/abs/10.1111/caim.12479)
+
+- Intrinsic motivations and profit-oriented firms in open source software: Do firms practise what they preach? (https://www.sciencedirect.com/science/article/abs/pii/B9780444527691500044)
+
+- Open source collaboration in digital entrepreneurship (https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1538)
+
+- Intrinsic vs. extrinsic incentives in profit-oriented firms supplying Open Source products and services (https://firstmonday.org/ojs/index.php/fm/article/download/1242/1162)
