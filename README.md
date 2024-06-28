@@ -215,6 +215,9 @@ The final result is presented below.
 - Conceptualizing open distributed innovation: A framework for the collaboration of private companies with grassroots‐driven open communities (https://onlinelibrary.wiley.com/doi/abs/10.1111/caim.12479)
 
 - Bounty Programs in Free/Libre/Open Source Software (https://www.sciencedirect.com/science/article/abs/pii/B9780444527691500081?via%3Dihub)
+
+- Studying backers and hunters in bounty issue addressing process of open source projects (https://petertsehsun.github.io/papers/Zhou2021_Article_StudyingBackersAndHuntersInBou.pdf)
+ 
 - Intrinsic motivations and profit-oriented firms in open source software: Do firms practise what they preach? (https://www.sciencedirect.com/science/article/abs/pii/B9780444527691500044)
 
 - Open source collaboration in digital entrepreneurship (https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1538)
