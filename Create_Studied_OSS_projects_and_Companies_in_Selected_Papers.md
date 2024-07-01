@@ -24,21 +24,21 @@
 | Roxen               | 2     |   |   | Webkit            | 1     |   |   | Funambol                | 1     |   |   | Sourcelabs       | 1     |
 | Samba               | 2     |   |   |                   |       |   |   | Google                  | 1     |   |   | Splunk           | 1     |
 | SOT                 | 2     |   |   | Company           | Count |   |   | GreenPlum               | 1     |   |   | Spotify          | 1     |
-| SugarCRM            | 2     |   |   | Red Hat           | 6     |   |   | GroundWork              | 1     |   |   | SSLExplorer      | 1     |
+| SugarCRM            | 2     |   |   | Red Hat           | 4     |   |   | GroundWork              | 1     |   |   | SSLExplorer      | 1     |
 | Alfresco            | 1     |   |   | IBM               | 4     |   |   | Hyperic                 | 1     |   |   | SugarCRM         | 1     |
-| Apache   CloudStack | 1     |   |   | MySQL             | 3     |   |   | JasperSoft              | 1     |   |   | SwissTag         | 1     |
+| Apache   CloudStack | 1     |   |   | Microsoft             | 2     |   |   | JasperSoft              | 1     |   |   | SwissTag         | 1     |
 | Apache   Geronimo   | 1     |   |   | Nokia             | 2     |   |   | Jbilling                | 1     |   |   | Symbiot/OpenSIMS | 1     |
 | Apache Kafka        | 1     |   |   | Philips           | 2     |   |   | Jboss                   | 1     |   |   | Talend           | 1     |
-| Atom                | 1     |   |   | SpikeSource       | 2     |   |   | Jitterbit               | 1     |   |   | Tencent          | 1     |
+| Atom                | 1     |   |   | Apple       | 2     |   |   | Jitterbit               | 1     |   |   | Tencent          | 1     |
 | Bootstrap           | 1     |   |   | Sun               | 2     |   |   | KnowledgeTree           | 1     |   |   | TenderSystem     | 1     |
 | Celtix              | 1     |   |   | SUSE Linux        | 2     |   |   | Lustre                  | 1     |   |   | UltimateEMR      | 1     |
 | Chromium            | 1     |   |   | 1bizcom           | 1     |   |   | Meditech                | 1     |   |   | VirtualBox       | 1     |
 | Contiki-NG          | 1     |   |   | Adaptive Planning | 1     |   |   | Mergere                 | 1     |   |   | VISTA            | 1     |
-| Darwin              | 1     |   |   | Agfa              | 1     |   |   | Microsoft               | 1     |   |   | vTiger           | 1     |
+| Darwin              | 1     |   |   | Agfa              | 1     |   |   | Zenoss               | 1     |   |   | vTiger           | 1     |
 | Drupal              | 1     |   |   | Alfresco          | 1     |   |   | Mindquarry              | 1     |   |   | Vyatta           | 1     |
 | Electron            | 1     |   |   | Alibaba           | 1     |   |   | Mirle Group PLC         | 1     |   |   | WSO2             | 1     |
 | GCC                 | 1     |   |   | Alterpoint        | 1     |   |   | Mirth                   | 1     |   |   | XenSource        | 1     |
 | Geronimo            | 1     |   |   | Altinity          | 1     |   |   | Mob Network             | 1     |   |   | x-tend           | 1     |
-| GinOpen             | 1     |   |   | Apple             | 1     |   |   | Mozilla                 | 1     |   |   | Zend             | 1     |
-| Git-lfs             | 1     |   |   | AV Networks       | 1     |   |   | MuleSource              | 1     |   |   | Zenoss           | 1     |
-| Globus   alliance   | 1     |   |   | Avison Ltd.       | 1     |   |   | Navicat                 | 1     |   |   | ZIMBRA           | 1     |
+| GinOpen             | 1     |   |   | ZIMBRA             | 1     |   |   | Mozilla                 | 1     |   |   | Zend             | 1     |
+| Git-lfs             | 1     |   |   | AV Networks       | 1     |   |   | MuleSource              | 1     |   |   |            |      |
+| Globus   alliance   | 1     |   |   | Avison Ltd.       | 1     |   |   | Navicat                 | 1     |   |   |            |      |
